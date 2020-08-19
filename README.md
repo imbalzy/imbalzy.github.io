@@ -1,2 +1,2 @@
 # imbalzy.github.io
-https://github.com/imbalzy/imbalzy.github.io/blob/master/Zhengyan%20Lyu%20resume2020.pdf
+https://github.com/imbalzy/imbalzy.github.io/blob/master/Zhengyan%20Lyu%20resume%202021%20summer%20intern.docx
