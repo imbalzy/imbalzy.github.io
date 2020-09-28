@@ -1,10 +1,11 @@
+cd pw
 set -e
 
 # build
 npm run build
 
 # navigate into the build output directory
-cd pw/dist
+cd dist
 git init
 git add -A
 git commit -m 'deploy'
