@@ -8,9 +8,9 @@ cache: npm
 script: npm run build
 
 deploy:
- provider: SURGE.SH
+ provider: pages
  skip_cleanup: true
- github_token: 2bdbf8cddc48551ee47d728c899c377832cc7c45
+ github_token: $GITHUB_TOKEN
  local_dir: dist
  on:
    branch: master
