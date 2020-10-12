@@ -1,6 +1,6 @@
 <template>
 <div>
-  <p class="display-1 text--primary">Peter's Projects</p>
+  <p class="display-1 text--primary">Peter's Projects</p>My current research interest lies in the overlapping field between cv and nlp.
   <v-card class="mx-auto">
     <v-card-text>
       <p class="display-1 text--primary">Automatic Handgun Detection</p>
