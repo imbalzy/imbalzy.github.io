@@ -27,7 +27,7 @@
             >
           </div>
           <div>
-            <div class="title">JS/CSS/HTML</div>
+            <div class="title">JavaScript/TyepScript/CSS/HTML</div>
             <v-progress-linear value="80" height="18" color="grey"
               >{{ 80 }}%</v-progress-linear
             >
@@ -50,8 +50,8 @@
               >{{ 50 }}%</v-progress-linear
             >
           </div>
-          Other languages: TypeScript, Lisp, Delphi/Object Pascal (the first
-          language I studyed 11 years ago)
+          Other languages: Lisp, Delphi/Object Pascal (the first language I
+          studyed 11 years ago)
         </div>
         <div class="col">
           <p class="headline text--primary">Packages/Frameworks/Systems</p>
