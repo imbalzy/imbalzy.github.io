@@ -7,9 +7,10 @@
       <p class="display-1 text--primary">About me</p>
       I am a first year computer science master at Brown University. I am
       looking for a software engineering internship position in summer 2021. I
-      am experienced in both front-end and back-end development. My primary
-      research interest lies in the overlapping field between cv and nlp. If you
-      think I am a good fit, please contant me via
+      am experienced in both front-end and back-end development. Previous
+      ACM/ICPC player. My primary research interest lies in the overlapping
+      field between cv and nlp. If you think I am a good fit, please contant me
+      via
       <a href="mailto:zhengyan_lyu@brown.edu">zhengyan_lyu@brown.edu</a>.
     </div>
     <br />
