@@ -1,5 +1,4 @@
 export default [{
-  base: '/app/',
   path: '/',
   component: () => import('@/main.vue'),
   name: 'home',
@@ -8,7 +7,7 @@ export default [{
   },
   children: [{
     name: 'projects',
-    path: '/projects/',
+    path: '/projects',
     meta: {
       title: "Peter's Projects"
     },
@@ -17,7 +16,7 @@ export default [{
   },
   {
     name: 'publications',
-    path: '/publications/',
+    path: '/publications',
     meta: {
       title: "Peter's Publications"
     },
@@ -25,7 +24,7 @@ export default [{
   },
   {
     name: 'resume',
-    path: '/resume/',
+    path: '/resume',
     beforeEnter() {
       // Put the full page url including the protocol http(s) below
       window.location = "https://github.com/imbalzy/imbalzy.github.io/blob/master/resumes/Zhengyan%20Lyu%20resume%202021%20full%20time.pdf"
@@ -35,7 +34,5 @@ export default [{
       title: "Peter's Resume"
     },
   },
-
-
   ]
-},]
+}]
