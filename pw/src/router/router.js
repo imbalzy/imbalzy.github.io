@@ -1,4 +1,5 @@
 export default [{
+  base: '/app/',
   path: '/',
   component: () => import('@/main.vue'),
   name: 'home',

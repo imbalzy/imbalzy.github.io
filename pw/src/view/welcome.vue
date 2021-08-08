@@ -5,12 +5,11 @@
     </p>
     <div>
       <p class="display-1 text--primary">About me</p>
-      I am a first year computer science master at Brown University. I am
-      looking for a software engineering internship position in summer 2021. I
-      am experienced in both front-end and back-end development. Previous
-      ACM/ICPC player. My primary research interest lies in the overlapping
-      field between cv and nlp. If you think I am a good fit, please contant me
-      via
+      I am a second year computer science master at Brown University. I am
+      looking for a software engineering new grad position. I will graduate in
+      Decemeber 2021. I am experienced in both front-end and back-end
+      development. Previous ACM/ICPC player. If you think I am a good fit,
+      please contant me via
       <a href="mailto:zhengyan_lyu@brown.edu">zhengyan_lyu@brown.edu</a>.
     </div>
     <br />
@@ -46,13 +45,12 @@
             >
           </div>
           <div>
-            <div class="title">C/C++</div>
+            <div class="title">Go</div>
             <v-progress-linear value="50" height="18" color="grey"
               >{{ 50 }}%</v-progress-linear
             >
           </div>
-          Other languages: Lisp, Delphi/Object Pascal (the first language I
-          studyed 11 years ago)
+          Other languages: C/C++, Lisp, Delphi/Object Pascal
         </div>
         <div class="col">
           <p class="headline text--primary">Packages/Frameworks/Systems</p>
@@ -79,7 +77,7 @@
             >
           </div>
           <div>
-            <div class="title">TensorFlow (worse than Pytorch)</div>
+            <div class="title">TensorFlow</div>
             <v-progress-linear value="75" height="18" color="grey"
               >{{ 75 }}%</v-progress-linear
             >
