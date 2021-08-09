@@ -8,8 +8,8 @@
       I am a second year computer science master at Brown University. I am
       looking for a software engineering new grad position. I will graduate in
       Decemeber 2021. I am experienced in both front-end and back-end
-      development. Previous ACM/ICPC player. If you think I am a good fit,
-      please contant me via
+      development. I had two full-stack internship experience. Previous ACM/ICPC
+      player. If you think I am a good fit, please contant me via
       <a href="mailto:zhengyan_lyu@brown.edu">zhengyan_lyu@brown.edu</a>.
     </div>
     <br />
