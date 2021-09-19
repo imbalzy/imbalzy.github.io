@@ -27,7 +27,7 @@
             >
           </div>
           <div>
-            <div class="title">JavaScript/TyepScript/CSS/HTML</div>
+            <div class="title">JavaScript/TypeScript/CSS/HTML</div>
             <v-progress-linear value="80" height="18" color="grey"
               >{{ 80 }}%</v-progress-linear
             >
